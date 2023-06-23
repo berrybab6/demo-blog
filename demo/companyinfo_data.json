@@ -1,0 +1,13 @@
+[
+  {
+    "model": "demo.companyinfo",
+    "pk": 1,
+    "fields": {
+
+	"mission": "To provide innovative solutions that exceed customer expectations.",
+      	"vision": "To become a global leader in our industry, delivering unparalleled products and services.",
+      	"objectives": "1. Achieve customer satisfaction through exceptional quality and service.\n2. Foster a collaborative and inclusive work environment.\n3. Drive continuous improvement and innovation.\n4. Contribute to the community and promote sustainability."
+
+    }
+  }
+]
