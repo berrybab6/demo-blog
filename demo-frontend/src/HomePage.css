@@ -1,0 +1,75 @@
+.homepage-container {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 1440px;
+    height: 655px;
+    background-image: url("/src/assets/images/homepage-bg.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+
+.header {
+  position: relative;
+
+  background-image: url("/src/assets/images/homepage-bg.png");
+  text-align: center;
+
+  top: 0;
+  right: 0;
+  width: 1440px;
+  height: 655px;
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+
+}
+
+.title-box {
+  position: absolute; /* Added absolute positioning */
+  bottom: 20px; 
+  /* Adjust the distance from the bottom */
+  left: 50%;
+  top: 53%;
+   /* Center horizontally */
+  transform: translateX(-50%); /* Adjust horizontal centering */
+}
+
+.header-title {
+font-family: Inter;
+font-size: 34px;
+font-weight: 700;
+line-height: 41px;
+letter-spacing: 0em;
+/* text-align: center; */
+color: white;
+
+
+}
+
+.header-button {
+
+padding: 14px 28.089996337890625px 16px 27px;
+border-radius: 40px;
+background: #9BD030;
+
+color:#006198;
+}
+/* font-family: Inter;
+font-size: 34px;
+font-weight: 700;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: center; */
+
+p {
+  color: #696969;
+  font-size: 16px;
+}
+
+h2 {
+  color: #006198;
+  text-transform: uppercase;
+}
